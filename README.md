@@ -63,7 +63,7 @@ const quotes = require('brazilian-horror-story');
 quotes();
 ```
 
-outputs:
+returns an `Object` like this:
 
 ```json
   {
