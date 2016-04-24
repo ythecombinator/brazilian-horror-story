@@ -1,7 +1,7 @@
 {
   "name": "brazilian-horror-story",
   "version": "0.1.0",
-  "description": "Some quotes from federal legislators during the vote on impeachment.",
+  "description": "Some quotes from Brazilian federal legislators during the vote on impeachment.",
   "main": "index.js",
   "bin": "cli.js",
   "engines": {
