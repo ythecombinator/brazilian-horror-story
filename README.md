@@ -112,7 +112,7 @@ Contributions are very welcome! If you'd like to contribute, these
 
 ## Motivation
 
-¯\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 
 ## License
 
